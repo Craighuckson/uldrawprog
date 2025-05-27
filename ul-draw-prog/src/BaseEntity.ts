@@ -11,4 +11,4 @@ export abstract class BaseEntity {
         this.y = y;
         
     }
-}
+}crypto.randomUUID
